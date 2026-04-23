@@ -9,9 +9,9 @@ A web application to securely store and manage important family documents.
 - Document upload and management
 
 ## Tech Stack
-- Frontend: React
+- Frontend: React,Tailwind CSS
 - Backend : Node.js,Express
-- Database : 
+- Database : Indexed DB,Local SQLite
 
 ## Note
 This project was built during a 24-hour hackathon,so some features are still under development.
